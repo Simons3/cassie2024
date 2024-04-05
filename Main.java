@@ -1,6 +1,6 @@
 class Main {  
   public static void main( String args[ ] ) { 
-       Avatar cassie = new Avatar( "sea", "trident" ); 
+       Avatar cassie = new Avatar( "sea", "trident" );  //johny 
        cassie.fightBoss( );
   } 
   public static class Avatar { 
